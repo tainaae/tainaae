@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tainaae
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning machine learning, python, data analysis and related stuff in order to start a career as a data scientist.
+- 🌱 I’m currently learning machine learning, python, data analysis and related stuff in order to start a career as a data analyst.
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 taina.a.e@gmail.com
 
